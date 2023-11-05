@@ -7,3 +7,6 @@ Si quieres enterarte de las novedades puedes suscribirte al [feed RSS](https://g
 También puedes guardar una copia de seguridad de este sitio [aquí](https://github.com/felipem775/pub/archive/refs/heads/main.zip).
 
 
+## Dev
+
+[Sistema de colas usando screen](dev/sistema-colas/README.md#sistema-sencillo-usando-screen)
